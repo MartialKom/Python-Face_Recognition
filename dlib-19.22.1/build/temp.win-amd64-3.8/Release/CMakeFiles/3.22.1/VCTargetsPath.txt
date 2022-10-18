@@ -1,0 +1,1 @@
+E:/Visual c++ tools/Common7/IDE/VC/VCTargets

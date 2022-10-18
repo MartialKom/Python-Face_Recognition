@@ -1,0 +1,15 @@
+img= cv2.imread("brad_pit2.jpeg")
+rgb_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+img_encoding=  face_recognition.face_encodings(rgb_img)[0]
+
+img1= cv2.imread("brad_pit.jpeg")
+rgb_img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2RGB)
+img_encoding1=  face_recognition.face_encodings(rgb_img1)[0]
+
+result= face_recognition.compare_faces([img_encoding], img_encoding1)
+
+print("Résultat:", result)
+cv2.imshow("brad_pit2.jpeg", img)
+cv2.imshow("brad_pit.jpeg", img1)
+
+cv2.waitKey(0) 

@@ -1,0 +1,6 @@
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/CMakeFiles/_dlib_pybind11.dir
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/CMakeFiles/ALL_BUILD.dir
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/CMakeFiles/ZERO_CHECK.dir
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/pybind11_build/CMakeFiles/ALL_BUILD.dir
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/CMakeFiles/dlib.dir
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/CMakeFiles/ALL_BUILD.dir

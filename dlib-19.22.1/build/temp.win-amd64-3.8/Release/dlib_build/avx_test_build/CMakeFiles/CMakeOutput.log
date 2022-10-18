@@ -1,0 +1,64 @@
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Visual c++ tools/MSBuild/15.0/Bin/MSBuild.exe cmTC_84b24.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m && Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.16.27045 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_84b24.dir\Debug\\" /Fd"cmTC_84b24.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  cmTC_84b24.vcxproj -> E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\Debug\cmTC_84b24.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Visual c++ tools/MSBuild/15.0/Bin/MSBuild.exe cmTC_0c414.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m && Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.16.27045 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0c414.dir\Debug\\" /Fd"cmTC_0c414.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  cmTC_0c414.vcxproj -> E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\Debug\cmTC_0c414.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Visual c++ tools/MSBuild/15.0/Bin/MSBuild.exe cmTC_2a816.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m && Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.16.27045 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2a816.dir\Debug\\" /Fd"cmTC_2a816.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  cmTC_2a816.vcxproj -> E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\Debug\cmTC_2a816.exe
+
+
+
+Determining size of void* passed with the following output:
+Change Dir: E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/build/temp.win-amd64-3.8/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/Visual c++ tools/MSBuild/15.0/Bin/MSBuild.exe cmTC_2d27f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=15.0 /v:m && Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.16.27045 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  
+  SIZE_OF_VOID_PTR.c
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2d27f.dir\Debug\\" /Fd"cmTC_2d27f.dir\Debug\vc141.pdb" /Gd /TC /errorReport:queue "E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  
+  cmTC_2d27f.vcxproj -> E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\Debug\cmTC_2d27f.exe
+
+
+

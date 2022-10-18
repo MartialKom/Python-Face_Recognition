@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\coursIUT\perso\PFE\pfe\CAPSFARE\dlib-19.22.1\build\temp.win-amd64-3.8\Release\dlib_build\neon_test_build\CMakeFiles\e12955a86fc90af8e2199d32c9592768\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{86537BC4-1444-359B-A6C0-210C4F3106B4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

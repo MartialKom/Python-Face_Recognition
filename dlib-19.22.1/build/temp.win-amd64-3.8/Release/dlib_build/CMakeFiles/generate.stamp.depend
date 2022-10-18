@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.22/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/CMakeLists.txt
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/check_if_avx_instructions_executable_on_host.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/check_if_neon_available.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/check_if_sse4_instructions_executable_on_host.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/find_libjpeg.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/find_libpng.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/release_build_by_default
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/set_compiler_specific_options.cmake
+E:/coursIUT/perso/PFE/pfe/CAPSFARE/dlib-19.22.1/dlib/cmake_utils/use_cpp_11.cmake
